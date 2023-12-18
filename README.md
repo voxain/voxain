@@ -7,5 +7,3 @@
 ![Occupation - Network administrator](https://img.shields.io/badge/Occupation-Network_administrator-blueviolet?style=for-the-badge)
 
 ![Hotel - Trivago](https://img.shields.io/badge/Hotel-Trivago-d82140?style=for-the-badge)
-
-[![An image of @voxain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voxain)](https://holopin.io/@voxain)
