@@ -1,3 +1,5 @@
+Exploring the world of development. Be aware, nothing here is production! It's all just for fun and learning :) 
+
 ![Name - Rene](https://img.shields.io/badge/Name-Rene-ff69b4?style=for-the-badge)
 
 ![Age - 22](https://img.shields.io/badge/Age-22-important?style=for-the-badge)
